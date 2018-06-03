@@ -29,6 +29,7 @@ public class Interfaz extends javax.swing.JFrame {
     private static final int tiempo_espera = 2000; // milisegundos
     private static final int data_rate = 9600; // igual que en arduino
     
+    
     public Interfaz() {
         initComponents();
         inicializarConexion();
